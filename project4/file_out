@@ -1,0 +1,42 @@
+
+The number of producer		The state of producer
+	0				7 Waiting for entering buffer
+	1				3 Placing items
+	2				7 Waiting for entering buffer
+	3				7 Waiting for entering buffer
+	4				7 Waiting for entering buffer
+The number of consumer		The state of consumer
+	5				7 Waiting for entering buffer
+	6				7 Waiting for entering buffer
+	7				6 Waiting for products
+	8				6 Waiting for products
+	9				7 Waiting for entering buffer
+The state of buffer is			0
+
+The number of producer		The state of producer
+	0				7 Waiting for entering buffer
+	1				3 Placing items
+	2				7 Waiting for entering buffer
+	3				7 Waiting for entering buffer
+	4				7 Waiting for entering buffer
+The number of consumer		The state of consumer
+	5				2 Consuming items
+	6				7 Waiting for entering buffer
+	7				7 Waiting for entering buffer
+	8				7 Waiting for entering buffer
+	9				7 Waiting for entering buffer
+The state of buffer is			0
+
+The number of producer		The state of producer
+	0				7 Waiting for entering buffer
+	1				7 Waiting for entering buffer
+	2				7 Waiting for entering buffer
+	3				7 Waiting for entering buffer
+	4				7 Waiting for entering buffer
+The number of consumer		The state of consumer
+	5				4 Fetching items
+	6				7 Waiting for entering buffer
+	7				7 Waiting for entering buffer
+	8				7 Waiting for entering buffer
+	9				7 Waiting for entering buffer
+The state of buffer is			0
